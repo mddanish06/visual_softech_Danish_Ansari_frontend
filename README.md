@@ -1,6 +1,6 @@
 # 📘 Student Management System
 
-# 🟩 FRONTEND — HTML + JavaScript
+## 🟩 FRONTEND — HTML + JavaScript
 
 ## 📌 Overview
 
