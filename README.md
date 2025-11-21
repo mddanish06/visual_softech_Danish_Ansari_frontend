@@ -1,3 +1,5 @@
+# 📘 Student Management System
+
 # 🟩 FRONTEND — HTML + JavaScript
 
 ## 📌 Overview
